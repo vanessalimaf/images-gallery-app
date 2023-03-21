@@ -19,6 +19,7 @@ const App = () => {
       .catch((err) => {
         console.log(err);
       })
+    setWord('');  //cleaning search tool box after press search
   }
 
   return (
