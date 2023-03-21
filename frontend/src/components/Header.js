@@ -1,8 +1,8 @@
-import React from "react";
-import { Navbar, Container } from "react-bootstrap";
+import React from 'react';
+import { Navbar, Container } from 'react-bootstrap';
 
 const navbarStyle = {
-    bg: 'light'
+  bg: 'light',
 };
 
 const Header = ({ title }) => {
